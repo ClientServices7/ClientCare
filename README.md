@@ -1,2 +1,3 @@
 # ClientCare
 MemberSupport
+MemberInfo
